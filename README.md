@@ -1,1 +1,1 @@
-# OMA
+# Orca Meteorological Association
